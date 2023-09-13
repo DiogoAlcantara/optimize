@@ -1,0 +1,101 @@
+[11-Sep-2023 20:36:18 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 20:36:18 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 20:37:01 UTC] Sync process for Gutenberg Blocks has started.
+[11-Sep-2023 20:37:01 UTC] CATEGORY:Importing categories..
+[11-Sep-2023 20:37:01 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[11-Sep-2023 20:37:01 UTC] CATEGORY:Completed category import.
+[11-Sep-2023 20:37:01 UTC] BLOCK: Getting Total Blocks
+[11-Sep-2023 20:37:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[11-Sep-2023 20:37:01 UTC] BLOCK: Requests count 4
+[11-Sep-2023 20:37:01 UTC] BLOCK: Importing request 1 ..
+[11-Sep-2023 20:37:01 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[11-Sep-2023 20:37:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[11-Sep-2023 20:37:02 UTC] BLOCK: Completed request 1
+[11-Sep-2023 20:37:02 UTC] BLOCK: Importing request 2 ..
+[11-Sep-2023 20:37:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[11-Sep-2023 20:37:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[11-Sep-2023 20:37:02 UTC] BLOCK: Completed request 2
+[11-Sep-2023 20:37:02 UTC] BLOCK: Importing request 3 ..
+[11-Sep-2023 20:37:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[11-Sep-2023 20:37:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[11-Sep-2023 20:37:02 UTC] BLOCK: Completed request 3
+[11-Sep-2023 20:37:02 UTC] BLOCK: Importing request 4 ..
+[11-Sep-2023 20:37:02 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[11-Sep-2023 20:37:02 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[11-Sep-2023 20:37:02 UTC] BLOCK: Completed request 4
+[11-Sep-2023 20:37:02 UTC] SITE: Getting Total Sites
+[11-Sep-2023 20:37:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[11-Sep-2023 20:37:02 UTC] SITE: Request count 2
+[11-Sep-2023 20:37:02 UTC] SITE: Importing request 1 ..
+[11-Sep-2023 20:37:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[11-Sep-2023 20:37:02 UTC] SITE: Storing in option ast-block-templates-sites-1
+[11-Sep-2023 20:37:02 UTC] SITE: Completed request 1
+[11-Sep-2023 20:37:02 UTC] SITE: Importing request 2 ..
+[11-Sep-2023 20:37:02 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[11-Sep-2023 20:37:02 UTC] SITE: Storing in option ast-block-templates-sites-2
+[11-Sep-2023 20:37:02 UTC] SITE: Completed request 2
+[11-Sep-2023 20:37:02 UTC] Sync process for Gutenberg Blocks is done.
+[11-Sep-2023 20:45:09 UTC] Source - https://websitedemos.net/pharmaceutical-08/wp-includes/images/media/default.png
+[11-Sep-2023 20:45:09 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/pharmaceutical-08/wp-includes/images/media/default.png
+[11-Sep-2023 20:45:09 UTC] Log - {"url":"https:\/\/websitedemos.net\/pharmaceutical-08\/wp-includes\/images\/media\/default.png","id":0}
+[11-Sep-2023 20:45:09 UTC] default.png
+[11-Sep-2023 20:45:09 UTC] {"file":"C:\\Users\\Usuario\\Desktop\\Sites\\optimize\\app\\public\/wp-content\/uploads\/2023\/09\/default.png","url":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/default.png","type":"image\/png","error":false}
+[11-Sep-2023 20:45:09 UTC] {"post_title":"default.png","guid":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/default.png"}
+[11-Sep-2023 20:45:09 UTC] BATCH - SUCCESS Image {Imported} - http://optimize.local/wp-content/uploads/2023/09/default.png
+[11-Sep-2023 20:45:09 UTC] Source - https://websitedemos.net/pharmaceutical-08/wp-content/uploads/sites/1157/2023/01/pharma-company-template-hero-img.png
+[11-Sep-2023 20:45:09 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/pharmaceutical-08/wp-content/uploads/sites/1157/2023/01/pharma-company-template-hero-img.png
+[11-Sep-2023 20:45:09 UTC] Log - {"url":"https:\/\/websitedemos.net\/pharmaceutical-08\/wp-content\/uploads\/sites\/1157\/2023\/01\/pharma-company-template-hero-img.png","id":0}
+[11-Sep-2023 20:45:10 UTC] pharma-company-template-hero-img.png
+[11-Sep-2023 20:45:10 UTC] {"file":"C:\\Users\\Usuario\\Desktop\\Sites\\optimize\\app\\public\/wp-content\/uploads\/2023\/09\/pharma-company-template-hero-img.png","url":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/pharma-company-template-hero-img.png","type":"image\/png","error":false}
+[11-Sep-2023 20:45:10 UTC] {"post_title":"pharma-company-template-hero-img.png","guid":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/pharma-company-template-hero-img.png"}
+[11-Sep-2023 20:45:10 UTC] BATCH - SUCCESS Image {Imported} - http://optimize.local/wp-content/uploads/2023/09/pharma-company-template-hero-img.png
+[11-Sep-2023 20:45:10 UTC] Source - https://websitedemos.net/pharmaceutical-08/wp-content/uploads/sites/1157/2023/01/pharma-company-template-founder-photo.png
+[11-Sep-2023 20:45:10 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/pharmaceutical-08/wp-content/uploads/sites/1157/2023/01/pharma-company-template-founder-photo.png
+[11-Sep-2023 20:45:10 UTC] Log - {"url":"https:\/\/websitedemos.net\/pharmaceutical-08\/wp-content\/uploads\/sites\/1157\/2023\/01\/pharma-company-template-founder-photo.png","id":0}
+[11-Sep-2023 20:45:10 UTC] pharma-company-template-founder-photo.png
+[11-Sep-2023 20:45:10 UTC] {"file":"C:\\Users\\Usuario\\Desktop\\Sites\\optimize\\app\\public\/wp-content\/uploads\/2023\/09\/pharma-company-template-founder-photo.png","url":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/pharma-company-template-founder-photo.png","type":"image\/png","error":false}
+[11-Sep-2023 20:45:10 UTC] {"post_title":"pharma-company-template-founder-photo.png","guid":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/pharma-company-template-founder-photo.png"}
+[11-Sep-2023 20:45:10 UTC] BATCH - SUCCESS Image {Imported} - http://optimize.local/wp-content/uploads/2023/09/pharma-company-template-founder-photo.png
+[11-Sep-2023 20:45:10 UTC] Source - https://websitedemos.net/pharmaceutical-08/wp-content/uploads/sites/1157/2023/01/pharma-company-template-products-section-img.jpeg
+[11-Sep-2023 20:45:10 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/pharmaceutical-08/wp-content/uploads/sites/1157/2023/01/pharma-company-template-products-section-img.jpeg
+[11-Sep-2023 20:45:10 UTC] Log - {"url":"https:\/\/websitedemos.net\/pharmaceutical-08\/wp-content\/uploads\/sites\/1157\/2023\/01\/pharma-company-template-products-section-img.jpeg","id":0}
+[11-Sep-2023 20:45:10 UTC] pharma-company-template-products-section-img.jpeg
+[11-Sep-2023 20:45:10 UTC] {"file":"C:\\Users\\Usuario\\Desktop\\Sites\\optimize\\app\\public\/wp-content\/uploads\/2023\/09\/pharma-company-template-products-section-img.jpeg","url":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/pharma-company-template-products-section-img.jpeg","type":"image\/jpeg","error":false}
+[11-Sep-2023 20:45:10 UTC] {"post_title":"pharma-company-template-products-section-img.jpeg","guid":"http:\/\/optimize.local\/wp-content\/uploads\/2023\/09\/pharma-company-template-products-section-img.jpeg"}
+[11-Sep-2023 20:45:10 UTC] BATCH - SUCCESS Image {Imported} - http://optimize.local/wp-content/uploads/2023/09/pharma-company-template-products-section-img.jpeg
+[11-Sep-2023 20:47:07 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 20:47:07 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:42:16 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:42:16 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:42:16 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:42:16 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:46:12 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:46:12 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:46:12 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:46:12 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:47:43 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:47:43 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:47:43 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:47:43 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:47:43 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:47:43 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:52:54 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:52:54 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:52:54 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:52:54 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:52:54 UTC] PHP Warning:  Undefined variable $options in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 22:52:54 UTC] PHP Warning:  Undefined variable $enabled_extensions in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\astra-sites\inc\classes\class-astra-sites.php on line 2322
+[11-Sep-2023 23:02:05 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-admin\includes\class-theme-upgrader.php on line 160
+[12-Sep-2023 12:24:03 UTC] Erro de evento de reagendamento do cron para o gancho: action_scheduler_run_queue, código de erro: invalid_schedule, mensagem de erro: Agendamento do evento não existe., dados: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[12-Sep-2023 23:11:17 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php on line 167
+[12-Sep-2023 23:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update_meta() on bool in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php:286
+Stack trace:
+#0 C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php(167): ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->save_conditions(NULL, Array)
+#1 [internal function]: ElementorPro\Modules\ThemeBuilder\Classes\Conditions_Manager->ajax_save_theme_template_conditions(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\elementor\core\common\modules\ajax\module.php(175): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#3 C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-includes\class-wp-hook.php(310): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#4 C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-admin\admin-ajax.php(188): do_action('wp_ajax_element...')
+#7 {main}
+  thrown in C:\Users\Usuario\Desktop\Sites\optimize\app\public\wp-content\plugins\pro-elements\modules\theme-builder\classes\conditions-manager.php on line 286
